@@ -1,1 +1,1 @@
-update count=100
+update count=10
